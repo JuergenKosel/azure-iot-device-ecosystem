@@ -50,7 +50,7 @@ You should have the following items ready before beginning the process:
 
 ![thirdWizardpage](media/echocollect-mqtt3.png)
 -   On the 3rd wizard page you need to set the MQTT Root Topic: ´devices/<device-id>/messages/events´. In the screenshot above: ´devices/echocollect/messages/events´.
--   Select flattened PLC hierarchy.
+-   Select **suppressed** PLC hierarchy.
 -   Set the MQTT payload format string:
 
 ```
